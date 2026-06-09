@@ -1,0 +1,6 @@
+{
+  "name": "Droguería Coconuco",
+  "description": "Una farmacia digital completa con catálogo interactivo, carrito de compras, blog de salud, sistema de login y sección de contacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
